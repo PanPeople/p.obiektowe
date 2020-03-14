@@ -1,6 +1,7 @@
 Volkswagen
 Golf
 1992
+1.5
 350000
 manualna
 Ford
